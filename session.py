@@ -11,8 +11,8 @@ print("\n • Telethon Session •")
 print("\n\nEnter Your Valid Details To Continue!\n\n")
 
         
-APP_ID = int(input("\nEnter APP ID here: "))
-API_HASH = input("\nEnter API HASH here: ")
+APP_ID = int(input("18137747"))
+API_HASH = input("27ac967e8b647863db2c2fcd97b5f166")
 
 
 try:
